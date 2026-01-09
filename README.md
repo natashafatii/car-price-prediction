@@ -46,11 +46,10 @@ The system includes:
 git clone https://github.com/natashafatii/car-price-prediction.git
 cd car-price-prediction
 2. Install required packages:
-```bash
 pip install -r requirements.txt
 3. Run the Gradio app:
-```bash
 python app.py
+```
 4. Input car details in the interactive UI and get predicted selling price.
 ## Models
 - **Linear Regression**
